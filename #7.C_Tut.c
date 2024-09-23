@@ -69,7 +69,7 @@ int main(){
     }
   }
 
-  // Q.4 Creating a 3-D array and printing the address of its elements in increasing order.
+  // Q.5 Creating a 3-D array and printing the address of its elements in increasing order.
   int arr[3][2][3];
   for(int i = 0; i<3; i++){
     for(int j = 0; j<2; j++){
