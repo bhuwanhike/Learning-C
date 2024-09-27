@@ -5,7 +5,7 @@
 
 int main() {
   // Snake, Water, Gun
-  printf("_____________WELCOME To THE GAME_____________\n\n\n");
+  printf("_____________WELCOME TO THE GAME_____________\n\n\n");
   srand(time(0));
   int computer = (rand() % 3);
   int computer_score = 0;
